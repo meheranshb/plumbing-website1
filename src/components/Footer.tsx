@@ -70,9 +70,7 @@ export default function Footer() {
                   Reviews
                 </Link>
               </li>
-              <li>
-              </li>
-            </ul>
+              </ul>
           </div>
 
           <div className="lg:col-span-3">
