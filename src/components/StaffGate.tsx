@@ -133,7 +133,7 @@ export default function StaffGate() {
             {busy ? "Checking…" : "Enter the shop"}
           </button>
           <p className="mt-5 text-center font-mono text-[10.5px] tracking-[0.16em] text-dim">
-            DEMO ACCESS · PIN 5702
+            
           </p>
         </form>
         <p className="mt-6 text-center text-[12px] text-dim">
