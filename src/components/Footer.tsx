@@ -70,7 +70,7 @@ export default function Footer() {
                   Reviews
                 </Link>
               </li>
-              <li
+              <li>
               </li>
             </ul>
           </div>
