@@ -70,10 +70,7 @@ export default function Footer() {
                   Reviews
                 </Link>
               </li>
-              <li>
-                <Link href="/dashboard" className="text-mist hover:text-aqua transition-colors">
-                  Staff Dashboard
-                </Link>
+              <li
               </li>
             </ul>
           </div>
